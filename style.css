@@ -29,6 +29,8 @@ h1{
 
 .btn-primary:hover{
   background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 4px;
 }
 
 .btn-xl {
@@ -43,5 +45,10 @@ hr{
   max-width: 65px;
   opacity: 1;  
 }
+
+.buffer {
+  height: 10rem;
+}
+
 
 
